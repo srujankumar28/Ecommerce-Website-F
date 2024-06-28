@@ -47,6 +47,7 @@
     color: #5c5c5c;
     font-size: 16px;
     font-weight: 500;
+    cursor: pointer;
 }
 .loginsignup-login span{
     color: #ff4141;
@@ -61,6 +62,10 @@
     font-size: 15px;
     font-weight: 500;
 }
+.loginsss{
+    cursor: pointer;
+}
+
 @media(max-width: 600px){
     .loginsignup-container h1{
         font-size: 22px;
